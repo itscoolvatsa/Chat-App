@@ -1,10 +1,9 @@
 {
-  "name": "chatAPP",
+  "name": "chatapp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm src/index.js",
+    "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
@@ -17,5 +16,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itscoolvatsa/Chat-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itscoolvatsa/Chat-App/issues"
+  },
+  "homepage": "https://github.com/itscoolvatsa/Chat-App#readme",
+  "description": ""
 }
